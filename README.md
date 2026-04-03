@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/freitaaszx/freitaaszx/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31rnkafpirmg5rb7vrt5n5cmxpxe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rnkafpirmg5rb7vrt5n5cmxpxe&count=3" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rnkafpirmg5rb7vrt5n5cmxpxe&count=3" alt="Spotify recently played" text-align: "left" />
   </a>
 </div>
 
