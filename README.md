@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/freitaaszx/freitaaszx/output/snake.svg" alt="Snake animation" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JwM3VvZjVncWF0NW1rNWp1ZnZyc3V5M29lZ2s3OWd4dGdoZWNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13eirb4In7z4is/giphy.gifhttps://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JwM3VvZjVncWF0NW1rNWp1ZnZyc3V5M29lZ2s3OWd4dGdoZWNmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13eirb4In7z4is/giphy.gif" alt="pacman" />
 
 ###
 
