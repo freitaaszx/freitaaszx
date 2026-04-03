@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd6MzluZDgybGc3ZXllaDk3bDY1NTU2ZGlrcTllYXhhNHB6dmhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pF07ufKS8hkhlnc3ay/giphy.gif" alt="p" />
+
 
 ###
 
