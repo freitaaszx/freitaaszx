@@ -41,9 +41,8 @@
 
 ###
 
-<br clear="both">
-
-
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyODRweWt5aDRodXU3ZjloOWQ5MnMwZWV1OHRkc2xiZW5sZnpmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiw6eT15xUnlbFINKL/giphy.gif"  />
+</div>
 
 ###
-
