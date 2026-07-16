@@ -1,3 +1,6 @@
+```js
+
+
 import Developer from 'siiko';
 
 class AboutMe extends Developer {
@@ -18,3 +21,5 @@ class Skills extends Developer {
   database       = ['PostgreSQL' , 'MySQL'];
   software       = ['Visual Studio Code', 'Neovim', 'Vim', 'Figma' , 'Visual Studio' ];
 }
+
+```
